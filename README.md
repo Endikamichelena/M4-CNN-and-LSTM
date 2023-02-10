@@ -1,4 +1,4 @@
-# M4---CNN-LSTM
+# M4-CNN-LSTM
 
 ## 2nd assignment - Fri 10 Feb.
 
