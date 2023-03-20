@@ -1,7 +1,4 @@
 # M4-CNN-LSTM
-Group assignment 2.
-
-## 2nd assignment - Fri 10 Feb.
 
 We created a CNN using the MNIST dataset. Brief review of the main steps:
 
